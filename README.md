@@ -47,7 +47,7 @@ Open the shell script in a text editor and replace the required fields with the 
 Save changes before run.
  
 
-#====================================================================================  
+#===================================================================================  
 T21bam=`Absolute_path_to_trisomy21_bam_file`  
 dPbam=`Absolute_path_to_deltaP_bam_file`  
 dM1bam=`Absolute_path_to_deltaM1_bam_file`  
@@ -55,7 +55,7 @@ dM2bam=`Absolute_path_to_deltaM2_bam_file`
 Dir=`Absolute_path_to_working_directory`  
 Ref=`Absolute_path_to_genome_reference_fasta_file`  
 Allele=`Target_allele_(P,M1,M2)`  
-#====================================================================================  
+#===================================================================================  
 
 
 ## 7.	Run script
