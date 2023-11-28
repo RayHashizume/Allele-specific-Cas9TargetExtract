@@ -6,7 +6,7 @@ This simple shell script code detects allele-specific SpCas9 recognition sequenc
  - macOS 13.4.1 (Apple Silicon M1)
  - zsh (v5.9)
 
-## 2.	Dependencies:
+## 2.	Prerequisites:
 - [pv (v1.6.20)](http://www.ivarch.com/programs/pv.shtml)
 - [ripgrep (v13.0.0)](https://github.com/BurntSushi/ripgrep)
 - [BSD awk (v20200816)](https://www.freebsd.org)
