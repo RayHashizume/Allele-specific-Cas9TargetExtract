@@ -62,3 +62,6 @@ Allele=`Target_allele_(P,M1,M2)`
 ```
 sh ./TargetExtract.sh
 ```
+
+## 8. License
+This software is released under the MIT License, see LICENSE.md.
